@@ -48,14 +48,14 @@ por que antes he visto lo de exteds en unos videos.*
 1. Practica 25
  - Es la primera practica donde hemos visto como funciona mas 
 o menos esquema y como una tabla puede tener relacion con otra tabla/s.
- - Tambien en esta practica enetendí y aprendí como funciona subclase y
+ - Tambien con esta practica enetendí y aprendí como funciona subclase y
 superclase.
 
 2. Practica 26
  - En este practica hicimos interface y con esta practica 
 aprendí como funciona y tal. 
  - Y tambien en esta practica hay esquema mucho mas grande que hemos 
-visto hantes en la practica 25.
+visto antes en la practica 25.
 
 #### Porque he elegido???
 > Creo que estos dos practicas pueden explicarnos como funciona subclase,
@@ -66,7 +66,15 @@ mas rapido.
 - - -
 - - -
 #### <a>Conclución:</a>
-
+`No puedo decir que estos dos unidades son faciles, 
+claro que son complicados. Pero yo aprendí muchas 
+cosas con este unidad, por ejemplo: aprendí que сlases y objetos pueden 
+ser reutilizados en diferentes partes del programa o incluso en otros 
+proyectos, tambie ahora entiendo que POO tiene estructura clara que 
+simplifica la comprensión y modificación del código, esto sirve 
+para proyectos grandes y complejos. En mi opinioon estos dos unidades muy 
+importantes, porque La programación orientada a objetos (POO) puede 
+ayudar a los desarrolladores de muchas maneras:`
 
 
 
