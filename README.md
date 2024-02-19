@@ -14,7 +14,7 @@
 - - -
 
 #### <a>Mis expectivas:</a>
-
+## 🤯
 *Después de las palabras del profesor, cito: __"Este 
 es un tema muy importante y complejo"__, no podía 
 imaginar la importancia y dificultad de esta tema, pero si se resuelve será 
@@ -28,6 +28,7 @@ por que antes he visto lo de exteds en unos videos.*
 - - -
 
 #### <a>Que he aprendido?</a>
+## 🤔
 - [x] Aprendí que es un metodo dentro de un clase.
 - [x] Aprendí como usar Objetos.
 - [x] Entendí para que sirve 'this.'.
@@ -76,6 +77,7 @@ para proyectos grandes y complejos. En mi opinioon estos dos unidades muy
 importantes, porque La programación orientada a objetos (POO) puede 
 ayudar a los desarrolladores de muchas maneras:`
 
+![](https://www.icegif.com/wp-content/uploads/thank-you-icegif-5.gif)
 
 
 
