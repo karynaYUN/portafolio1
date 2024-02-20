@@ -1,5 +1,5 @@
 # POO y POO Avanzado
-
+*Unidad 4 y 5*
 - - -
 
 ### Que voy a comentar hoy? 😊
@@ -13,7 +13,7 @@
 - - - 
 - - -
 
-#### <a>Mis expectivas:</a>
+### <a>Mis expectivas:</a>
 ## 🤯
 *Después de las palabras del profesor, cito: __"Este 
 es un tema muy importante y complejo"__, no podía 
@@ -27,7 +27,7 @@ por que antes he visto lo de exteds en unos videos.*
 - - -
 - - -
 
-#### <a>Que he aprendido?</a>
+### <a>Que he aprendido?</a>
 ## 🤔
 - [x] Aprendí que es un metodo dentro de un clase.
 - [x] Aprendí como usar Objetos.
@@ -44,19 +44,57 @@ por que antes he visto lo de exteds en unos videos.*
 - - -
 - - - 
 
-#### <a>Ejercicios: </a>
+### <a>Ejercicios: </a>
 
-1. Practica 25
+### 1. Practica 25
  - Es la primera practica donde hemos visto como funciona mas 
 o menos esquema y como una tabla puede tener relacion con otra tabla/s.
  - Tambien con esta practica enetendí y aprendí como funciona subclase y
 superclase.
 
-2. Practica 26
+__Un trozo de codigo de practica numero 25:__
+```javascript
+public class Empresa {
+    public String nombre;
+    public int numeroOrdenador;
+    public Ordenador[] Ordenadores=new Ordenador[500];
+    public void Empresa(String nombre){
+        this.nombre=nombre;
+    }
+    public void anadirOrdenador(Ordenador ordenador){
+            if (numeroOrdenador < 500) {
+                Ordenadores[numeroOrdenador] = ordenador;
+                numeroOrdenador++;
+            }
+        }
+    }
+```
+
+### 2. Practica 26
  - En este practica hicimos interface y con esta practica 
 aprendí como funciona y tal. 
  - Y tambien en esta practica hay esquema mucho mas grande que hemos 
 visto antes en la practica 25.
+
+__Un trozo de codigo de practica numero 26:__
+```javascript
+public class Servidor extends Ordenador {
+    private int tipo;
+
+    public Servidor(String nombre){
+        super(nombre);
+    }
+    public Servidor(int ip1, int ip2, int ip3, int ip4){
+        super(ip1,ip2,ip3,ip4);
+    }
+    public Servidor(int ip1, int ip2, int ip3, int ip4, int bitsRed){
+        super(ip1,ip2,ip3,ip4,bitsRed);
+    }
+    public Servidor(int ip1, int ip2, int ip3, int ip4, int bitsRed, String nombre){
+        super(ip1,ip2,ip3,ip4,bitsRed,nombre);
+    }
+  }
+```
 
 #### Porque he elegido???
 > Creo que estos dos practicas pueden explicarnos como funciona subclase,
@@ -66,7 +104,7 @@ mas rapido.
 
 - - -
 - - -
-#### <a>Conclución:</a>
+### <a>Conclución:</a>
 `No puedo decir que estos dos unidades son faciles, 
 claro que son complicados. Pero yo aprendí muchas 
 cosas con este unidad, por ejemplo: aprendí que сlases y objetos pueden 
@@ -77,7 +115,7 @@ para proyectos grandes y complejos. En mi opinioon estos dos unidades muy
 importantes, porque La programación orientada a objetos (POO) puede 
 ayudar a los desarrolladores de muchas maneras:`
 
-![](https://www.icegif.com/wp-content/uploads/thank-you-icegif-5.gif)
+![](https://i.pinimg.com/originals/65/d4/a3/65d4a33521f6f15d4b8f3b5cdeaec29d.gif)
 
 
 
